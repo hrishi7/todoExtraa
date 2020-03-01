@@ -1,4 +1,4 @@
-1. git clone 
+1. git clone https://github.com/hrishi7/todoExtraa.git
 2. open root folder and "npm install"
 3. in root folder "npm start"
 3. cd client "npm install"
