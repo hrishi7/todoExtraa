@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "heroku-postbuild": "NODE_ENV=false npm install --prefix client && npm run build --prefix client"
+    "heroku-postbuild": "NODE_ENV=production npm install --prefix client && npm run build --prefix client"
   },
   "keywords": [],
   "author": "",
