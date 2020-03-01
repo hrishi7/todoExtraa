@@ -1,0 +1,5 @@
+1. git clone 
+2. open root folder and "npm install"
+3. in root folder "npm start"
+3. cd client "npm install"
+4. "npm start"
